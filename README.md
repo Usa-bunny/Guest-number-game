@@ -1,7 +1,20 @@
-# Welcome to Gusest Number Game
+# Guest Number Game
 
-## Get started
-this project i made for learning about javascript dom
+> Game Guest Number with Advanced DOM Manipulation
+This project demonstrates advanced JavaScript Dom.
 
-1. Run index Html 
+---
 
+## 🚀 Getting Started
+
+### Installation
+1. Clone the repository:
+~~~bash
+git clone https://github.com/Usa-bunny/Guest-number-game.git
+cd Guest-number-game
+~~~
+2. Open `index.html` in your browser.
+
+---
+
+<p align="center">🎮 <strong>Created by <a href="https://github.com/Usa-bunny">Usa-bunny</a></strong></p>
