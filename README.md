@@ -1,4 +1,4 @@
-# Welcome to UsaFlag
+# Welcome to Gusest Number Game
 
 ## Get started
 this project i made for learning about javascript dom
